@@ -1,0 +1,16 @@
+C:\Temp\Calculo_CPE\bin\Debug\net5.0\Calculo_CPE.exe
+C:\Temp\Calculo_CPE\bin\Debug\net5.0\Calculo_CPE.deps.json
+C:\Temp\Calculo_CPE\bin\Debug\net5.0\Calculo_CPE.runtimeconfig.json
+C:\Temp\Calculo_CPE\bin\Debug\net5.0\Calculo_CPE.runtimeconfig.dev.json
+C:\Temp\Calculo_CPE\bin\Debug\net5.0\Calculo_CPE.dll
+C:\Temp\Calculo_CPE\bin\Debug\net5.0\ref\Calculo_CPE.dll
+C:\Temp\Calculo_CPE\bin\Debug\net5.0\Calculo_CPE.pdb
+C:\Temp\Calculo_CPE\obj\Debug\net5.0\Calculo_CPE.csprojAssemblyReference.cache
+C:\Temp\Calculo_CPE\obj\Debug\net5.0\Calculo_CPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Calculo_CPE\obj\Debug\net5.0\Calculo_CPE.AssemblyInfoInputs.cache
+C:\Temp\Calculo_CPE\obj\Debug\net5.0\Calculo_CPE.AssemblyInfo.cs
+C:\Temp\Calculo_CPE\obj\Debug\net5.0\Calculo_CPE.csproj.CoreCompileInputs.cache
+C:\Temp\Calculo_CPE\obj\Debug\net5.0\Calculo_CPE.dll
+C:\Temp\Calculo_CPE\obj\Debug\net5.0\ref\Calculo_CPE.dll
+C:\Temp\Calculo_CPE\obj\Debug\net5.0\Calculo_CPE.pdb
+C:\Temp\Calculo_CPE\obj\Debug\net5.0\Calculo_CPE.genruntimeconfig.cache
